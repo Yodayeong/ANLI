@@ -1,10 +1,10 @@
 # 🏚안리 : 편안하게 떠나다
 
-![10](README.assets/10-16578564854465.PNG)
+![10](README.assets/10-16578569883937.PNG)
 
-<div align=center>**"언제든 편안한 마음으로 떠나라"**</div>
+<div align=center>"언제든 편안한 마음으로 떠나라"</div>
 
-<div align=center>단기 임대 전문 플랫폼 **안리** 입니다.</div>
+<div align=center>단기 임대 전문 플랫폼 안리 입니다.</div>
 
 
 
